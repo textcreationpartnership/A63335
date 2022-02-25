@@ -1,0 +1,1628 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An heroick poem to his Royal Highness the Duke of York on his return from Scotland with some choice songs and medleyes on the times / by Mat. Taubman ...</title>
+            <author>Taubman, Matthew, d. 1690?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63335</idno>
+            <idno type="STC">Wing T239</idno>
+            <idno type="STC">ESTC R14183</idno>
+            <idno type="EEBO-CITATION">13558569</idno>
+            <idno type="OCLC">ocm 13558569</idno>
+            <idno type="VID">100278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 803:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An heroick poem to his Royal Highness the Duke of York on his return from Scotland with some choice songs and medleyes on the times / by Mat. Taubman ...</title>
+                  <author>Taubman, Matthew, d. 1690?</author>
+               </titleStmt>
+               <extent>[6] p., iv leaves, 20 leaves of music.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Unacc. melodies.</note>
+                  <note>First edition.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry.</term>
+               <term>Songs, English --  England --  17th century.</term>
+               <term>Political ballads and songs --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100278:1"/>
+            <pb facs="tcp:100278:1" rendition="simple:additions"/>
+            <p>AN HEROICK POEM TO HIS Royal Highneſs THE DUKE of YORK, ON HIS RETURN FROM SCOTLAND. WITH Some choice SONGS and MEDLEYES <hi>ON THE</hi> TIMES.</p>
+            <p>By <hi>MAT. TAUBMAN,</hi> Gent.</p>
+            <q>
+               <bibl>
+                  <hi>Hora. Ser. Sat. 3.</hi>
+               </bibl>
+               <l>Omnibus hoc Vitium eſt Cantoribus inter amicos,</l>
+               <l>Ut nunquam Inducant animum cantare, Rogati,</l>
+               <l>Injuſſi nunquam Deſiſtant.—</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Smith</hi> in <hi>Ruſſel-ſtreet, Covent-Garden,</hi> 1682</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100278:2"/>
+            <pb facs="tcp:100278:2"/>
+            <head>THE PUBLISHER TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THe Author of theſe few <hi>Songs,</hi> being much ſollicited for Copies, and not able to oblige all his Friends, was prevail'd upon (for the eaſe of both) to allow them to be Printed with the Notes, which all Gentlemen that are deſirous, may have at Mr. <hi>John Smith,</hi> Bookſeller, his Shop in <hi>Ruſſell-ſtreet, Covent-Garden,</hi> together with the Baſſes, at reaſonable Rates</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:100278:3"/>
+            <pb facs="tcp:100278:3"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>POem,</hi> p. i.</item>
+               <item>
+                  <hi>Medley on the Plot, Two Changes,</hi> p. 1.</item>
+               <item>
+                  <hi>Medley on the Aſſociation, Five Changes,</hi> p. 3.</item>
+               <item>
+                  <hi>Catch on the Succeſſion,</hi> p. 8.</item>
+               <item>
+                  <hi>Philander,</hi> p. 9.</item>
+               <item>
+                  <hi>The Diſſolution at</hi> Oxford, p. 10.</item>
+               <item>
+                  <hi>Old Jemmy,</hi> p. 11.</item>
+               <item>
+                  <hi>The Healths,</hi> p. 12.</item>
+               <item>
+                  <hi>York and Albany,</hi> p. 13.</item>
+               <item>
+                  <hi>The Dukes Return from</hi> Scotland, p. 14.</item>
+               <item>
+                  <hi>The Dukes Return after Shipwrack,</hi> p. 15.</item>
+               <item>
+                  <hi>Great Jemmy,</hi> p. 16.</item>
+               <item>
+                  <hi>A Paſtoral,</hi> p. 17.</item>
+               <item>
+                  <hi>Oſſery, a Catch,</hi> Ibid.</item>
+               <item>
+                  <hi>The Plot Unvail'd, Three Changes,</hi> p. 18.</item>
+            </list>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100278:4"/>
+            <pb n="i" facs="tcp:100278:4"/>
+            <head>TO THE DUKE, UPON HIS RETURN FROM SCOTLAND.</head>
+            <lg>
+               <l>STill with our ſins, ſtill with our furies croſt,</l>
+               <l>The Royal Barge is on the Billows toſt.</l>
+               <l>We raiſe the Storm: You muſt the <hi>Jonas</hi> be,</l>
+               <l>That muſt appeaſe the raging of the Sea.</l>
+               <l>You, Sir, are both the Heav'ns and Oceans care,</l>
+               <l>Whoſe Gods in your protection claim a ſhare;</l>
+               <l>Who from devouring Deeps, as him before,</l>
+               <l>Did in your life, our lives and hopes reſtore.</l>
+               <l>So the fair Light once baniſh'd, does return,</l>
+               <l>When with new Brightneſs crown'd the Day is Born:</l>
+               <l>Tho all the time that diſapears, we might</l>
+               <l>Much better ſay, we vaniſht are from Light:</l>
+               <l>For that ſtill guides the Day when it is here,</l>
+               <l>And flies but to extend the Day elſewhere.</l>
+               <l>As you, whom our poor Iſle cannot confine,</l>
+               <l>More than the Sun can in one Country ſhine,</l>
+               <l>For the ſame cauſe can never Baniſh't be,</l>
+               <l>Contain'd in no one Land no more than He.</l>
+               <l>Ev'n he, Deſcending from his Shining height</l>
+               <l>With us, does riſe in other Lands as Bright,</l>
+               <l>And ſeeming to go down to this Worlds view.</l>
+               <l>Retires, but is not Baniſh't to the new.</l>
+               <pb facs="tcp:100278:5"/>
+               <pb n="ii" facs="tcp:100278:5"/>
+               <l>So you, no leſs than he, a Star too Great</l>
+               <l>To riſe for ever in one place, or ſet.</l>
+               <l>In Sphere too noble, and of make too pure,</l>
+               <l>For envious Miſts for ever to obſcure.</l>
+               <l>If ought e're ſeem'd to intercept your Light,</l>
+               <l>The Clouds ne'r darken'd you, but hid our ſight.</l>
+               <l>Like Heav'ns fair Ruler of the Day, as high</l>
+               <l>Above all Clouds, as they above our Eye.</l>
+               <l>Nor leſs than he a Royal Planet ſeem,</l>
+               <l>Born to divided Empire too, like Him.</l>
+               <l>Your Hemiſpheres in which you ſhine, have too</l>
+               <l>Your Brothers antient Empire, and its new:</l>
+               <l>The Empire of his Race, which gave the Chair</l>
+               <l>In which our Kings, when Crown'd, now ſeated are.</l>
+               <l>Ev'n ſo long ſince ſome promiſe ſeem'd to give,</l>
+               <l>That thence in time we might our Kings derive:</l>
+               <l>Gives us in you a ſure ſupport alone,</l>
+               <l>Both of the <hi>Scottiſh</hi> Chair, and <hi>Engliſh</hi> Throne.</l>
+               <l>Well did the ROYAL MARTYR e're he fell</l>
+               <l>To bind SUCCESSION, ſhew his lateſt zeal;</l>
+               <l>When Kiſſing GLOUC'STER he forbad all Claims</l>
+               <l>To <hi>CHARLES</hi> his Scepter and the Sword of <hi>JAMES.</hi>
+               </l>
+               <l>Be <hi>CHARLES</hi> his Scepter ever ſacred ſtill,</l>
+               <l>And be the Sword of <hi>JAMES</hi> invicible.</l>
+               <l>May the young KING to mount my Throne prevail,</l>
+               <l>May th' ADMIRAL in Battel never fail:</l>
+               <l>Revolted Cities bend to th' PRINCES yoke,</l>
+               <l>While Fleets and Armies wait upon the <hi>DUKE:</hi>
+               </l>
+               <l>His Lot to ſhine upon the Land, and be</l>
+               <l>The other ſtill to Thunder on the Sea.</l>
+               <l>All this and more kind Heaven underſtood,</l>
+               <l>Couch't in your ſpeechleſs Father's voice of Blood.</l>
+               <l>For Wounds have Mouths which ſeem to gape and cry</l>
+               <l>And in the voice of Blood was Prophecy.</l>
+               <l>Propitious Heav'n the Martyr's Cry has heard,</l>
+               <l>A King's and Martyr's Cry deſerves regard.</l>
+               <l>Much to his Vows as the Event does ſhow</l>
+               <l>For their ſucceſs the <hi>Royal Brothers</hi> owe.</l>
+               <l>Our <hi>Sov'reign</hi> much for his Return muſt own,</l>
+               <l>Meeting i'th' Arms of Peace a Bloodleſs Crown.</l>
+               <pb facs="tcp:100278:6"/>
+               <pb n="iii" facs="tcp:100278:6"/>
+               <l>Much you, maintaining to the Sea that Right,</l>
+               <l>He o're the Land had gain'd, without a Fight.</l>
+               <l>For what alas had it avail'd to boaſt</l>
+               <l>His Scepter gain'd, had yet his Flagg been loſt?</l>
+               <l>And what a Maimed Monarch needs muſt be</l>
+               <l>An Iſland King who is not Lord at Sea?</l>
+               <l>In his Return Heaven no hands did need,</l>
+               <l>Reſerving that, for its peculiar deed.</l>
+               <l>Its Act entire, as ſeeming to declare,</l>
+               <l>None in the Honour of that work ſhou'd ſhare:</l>
+               <l>That Kings may know on whom they muſt depend,</l>
+               <l>Whoſe Gifts are Crowns, and whence they do Deſcend.</l>
+               <l>And we due Reverence to our Kings may learn,</l>
+               <l>Reſtor'd Divinely, as Divinely born.</l>
+               <l>This Heav'n perform'd, but left it to your Sword</l>
+               <l>To Guard thoſe Rights to which he was reſtor'd:</l>
+               <l>Keeping in ſtore this Honour, as your due,</l>
+               <l>What it began ſhou'd finiſht be by you.</l>
+               <l>And teaching us where humane hands there need,</l>
+               <l>To what a kind of Choice it does proceed:</l>
+               <l>When ſuiting Inſtruments to Ends it draws</l>
+               <l>The Brighteſt Sword ſtill in the braveſt cauſe;</l>
+               <l>Appointing, and then Arming you for Fight,</l>
+               <l>Who to the Seas Command by Birth had Right:</l>
+               <l>Led by juſt Titles to as juſt a War,</l>
+               <l>To reap thoſe Honours, in which none cou'd ſhare.</l>
+               <l>With double Courage arm'd, you then did ſhow</l>
+               <l>What a Great Leader, and good Cauſe cou'd do.</l>
+               <l>What the Kings juſt Rights cou'd at once require,</l>
+               <l>Or we from th' hopes of your high Birth deſire:</l>
+               <l>When you the winged Hoſts to Battel led,</l>
+               <l>And in your Flying Chariot 'fore them rid,</l>
+               <l>Bearing your Brothers Thunder by your ſide,</l>
+               <l>And waving high his Flag, with lofty Pride,</l>
+               <l>Thus high th' Enſign of his wrong'd Pow'r to ſhow,</l>
+               <l>While that his Vengeance loudly? ſpeaks below.</l>
+               <l>Soon as the <hi>Sov'raign</hi> of the Seas did rore</l>
+               <l>Proſtrate they fell, who cou'd not bow before.</l>
+               <l>They knew his Voice, and to his Flagg ſubmit,</l>
+               <l>His Thunder own, and him that carry'd it.</l>
+               <pb facs="tcp:100278:7"/>
+               <pb n="iv" facs="tcp:100278:7"/>
+               <l>Tall Ships that with their Flaggs erect did ride,</l>
+               <l>Hide in the Seas the Trophies of their pride.</l>
+               <l>Low as the Deep their humble Top-ſails bend,</l>
+               <l>And Wide as that their Ruins do extend:</l>
+               <l>Such was the Fight as did the World convince,</l>
+               <l>None but you were Born for the Crowns defence.</l>
+               <l>And tho' it were not your high Charge by Birth,</l>
+               <l>Your Merit to that place had call'd you forth;</l>
+               <l>While you at once deſervedly Unite</l>
+               <l>The greateſt Merit, and the Higheſt Right.</l>
+               <l>What vaſt unbounded hopes may we conceive</l>
+               <l>Who under ſuch a pair of <hi>Brothers</hi> live?</l>
+               <l>Happy! beneath this fair Conjunction born,</l>
+               <l>Cou'd we ſubmit to th' Throne which they adorn.</l>
+               <l>Where each ſo worthy is, Great <hi>CHARLES</hi> to Reign,</l>
+               <l>And <hi>YORK</hi> to Triumph o're the Conquer'd Main:</l>
+               <l>A better <hi>KING</hi> than He no Land e're knew,</l>
+               <l>No Seas a braver <hi>ADMIRAL</hi> than you.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="songs">
+            <pb facs="tcp:100278:8"/>
+            <pb n="1" facs="tcp:100278:8"/>
+            <div type="song">
+               <head>Medley on the PLOT.</head>
+               <div n="1" type="part">
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> DOWN, down Diſco╌ve╌rers, who ſo long have plotted</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> with holy Shams to gull the Nation,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> both Peers and Prelacy they uſeleſs voted</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> by the old Babes of Re╌for╌ma╌tion.</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Property's all their cry, Rights and Freedom,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Law and Religion, they pull down,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> with old in╌te╌ſtine Lance to bleed 'em,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> from Lawn-ſleev'd Prelate to Purple Throne.</l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>Confound the Hypocrites, <hi>Birminghams</hi> Royal,</l>
+                     <l>Who think Allegiance a Tranſgreſſion,</l>
+                     <l>Since to oppoſe the King is counted loyal,</l>
+                     <l>And to rail high at the Succeſſion.</l>
+                     <l>Monarchy's Tyranny; Juſtice, cruel;</l>
+                     <l>Loyaliſts, Tory and Rory Knaves;</l>
+                     <l>And <hi>Dagon</hi> Liberty's a Jewel,</l>
+                     <l>That we again may be <hi>Brewers</hi> Slaves.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <pb facs="tcp:100278:9"/>
+                  <pb n="2" facs="tcp:100278:9"/>
+                  <head>Second Part.</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> DRink, drink my Boys, ſince Plotting is in ſea╌ſon,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> and none loyal deem'd but bu╌ſie Brats of Faction:</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <hi>Rome, Rome</hi> record no more thy ho╌ly Treaſon,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> we have thoſe at home of more divine Extraction:</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> We have Peers and Parſons, Smiths and <hi>Coopers</hi> too,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Carpenters and Joyners of the Reformation,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> all your Brood of cloiſter'd <hi>Jeſuits</hi> out-do,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> to reduce to Duty a di╌vi╌ded Nation.</l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>Let Whiggs and Zealots dabble deep in Treaſon,</l>
+                     <l>And ſuck from the Spiggot heavenly Revelations,</l>
+                     <l>We in the Glaſs will find more ſolid Reaſon,</l>
+                     <l>And our Hearts inflam'd with nobler Inſpirations,</l>
+                     <l>Let 'em boaſt of loyal <hi>Birminghams</hi> and true,</l>
+                     <l>And with theſe make up their Kirk of Separation,</l>
+                     <l>We have honeſt Tory <hi>Tom,</hi> and <hi>Dick,</hi> and <hi>Hugh,</hi>
+                     </l>
+                     <l>Will drink on, and do more ſervice for the Nation</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:10"/>
+               <pb n="3" facs="tcp:100278:10"/>
+               <head>
+                  <hi>Medley on the</hi> Aſſociation.</head>
+               <div n="1" type="change">
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> NOW Treaſons haunt the Throne,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> and Faction ſways the Town,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Zea╌lots, Rebels and Traitors re╌ple╌vin,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> honeſt Men they out-brave,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> they can no Juſtice have,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> what ſhall Loy╌a╌liſts do for a Living,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ſince 'tis a Crime to defend the Royal Cauſe,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> or the Laws,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 'gainſt his Foes who incloſe him,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> whilſt ſtill the gid╌dy-brain'd Mul╌ti╌tude,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> in their old terms ſo rude,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> dai╌╌ly do intrude</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> with the Crowd to oppoſe him.</l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>What could the Commons mean,</l>
+                     <l>Impeaching Duke and Queen,</l>
+                     <l>But to govern the Nation without him?</l>
+                     <l>'Twas ſuch a hainous thing,</l>
+                     <l>And Treaſon in the King,</l>
+                     <l>To keep Money or good Men about him</l>
+                     <l>Then they Petitions bring,</l>
+                     <l>To promote the thing,</l>
+                     <l>And make a <hi>Glorious</hi> King</l>
+                     <l>The old faſhion:</l>
+                     <l>Whilſt Lord and Biſhop, State, Church and Throne,</l>
+                     <l>With all their Rites muſt down,</l>
+                     <l>To ſet up their new <hi>Babel</hi> of Reformation.</l>
+                  </lg>
+               </div>
+               <div n="2" type="change">
+                  <pb facs="tcp:100278:11"/>
+                  <pb n="4" facs="tcp:100278:11"/>
+                  <head>Second Change.</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> JOckey a╌way Man,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Dee'l ha' me by the Lug gin I will ſtay Man</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> to be made ſike a Rogue, Wonds a Geud, <hi>Sawney,</hi> gin thou wot well the thing,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> yance mere for money they'l gar thee ſell thy King,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ſo they did venter,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> banter,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ranter,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> beth the new Whigg and aud Co╌ve╌nan╌ter,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> loved him, proved him,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ſhoved him, moved him,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 'till they gar head him, ſo well they loved him.</l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>But now at laſt we've got the removing on't,</l>
+                     <l>And 'till a Teſt have turned the Covenant,</l>
+                     <l>Muckle Dee'l have us, gin the Loons any mere</l>
+                     <l>Shall e're bereave us of the right lawful Heir.</l>
+                     <l>Now <hi>Scotland</hi>'s loyal,</l>
+                     <l>Joy all;</l>
+                     <l>Royal</l>
+                     <l>
+                        <hi>JEMMY</hi> our Head, the <hi>Whiggs</hi> we defie all.</l>
+                     <l>We mighted him, righted him,</l>
+                     <l>When <hi>England</hi> ſlighted him;</l>
+                     <l>
+                        <hi>Tan-ta-ra-ra-ra,</hi> now Lads wee'l fight for him.</l>
+                  </lg>
+               </div>
+               <div n="3" type="change">
+                  <pb facs="tcp:100278:12"/>
+                  <pb n="5" facs="tcp:100278:12"/>
+                  <head>Third Change.</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> HA! Fire, Fire! ſee the Clouds are frying,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <hi>Sh╌y</hi>'s ac<g ref="char:EOLhyphen"/>quitted,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> and the Flames aſcending in Flakes of ſcorching Treaſons,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> upwards flying againſt their King, againſt the Gods contending:</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Theſe are the ho╌ly Triumphs of the Saints offending,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> when a damn'd Traitor ſcapes, that would his King revile;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> but let an honeſt Tory,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> to his Monarch's Glory,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> light but a Faggot, 'tis his fun'ral Pile.</l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>Poor <hi>Teig</hi> and <hi>Rory,</hi> who renew'd the Story,</l>
+                     <l>Were Babes of Grace while ſwearing was in faſhion,</l>
+                     <l>But when the <hi>Whigg</hi> was charg'd by the true <hi>Tory,</hi>
+                     </l>
+                     <l>The Joyner's Flayl did threſh them out o'th' Nation,</l>
+                     <l>Then all was Goſpel-proof, and now all Subornation:</l>
+                     <l>Againſt old <hi>Cony</hi> perjur'd every Mother's Son.</l>
+                     <l>And now poor <hi>Teig</hi> and <hi>Rory,</hi>
+                     </l>
+                     <l>To his Nations Glory,</l>
+                     <l>May plot at home, and ſing <hi>O hone! O hone!</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="4" type="change">
+                  <pb facs="tcp:100278:13"/>
+                  <pb n="6" facs="tcp:100278:13"/>
+                  <head>Fourth Change.</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <hi>MOrbleu!</hi> the <hi>Monſieur</hi>'s come,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> as if the Furies bore him,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> with Trumpet, Pipe, and Drum,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> to 'larm the World around,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> the dread of <hi>Chri╌ſten╌dom:</hi>
+                     </l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The Cannons loudly roar him,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> the Dev'l will not preſume</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 'gainſt him to ſtand his ground:</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The <hi>Spaniard, Dane,</hi> and <hi>Pole,</hi>
+                     </l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ſubmit to his Commanders,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> and does the Fates controll</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> in <hi>Germany</hi> and <hi>Flanders,</hi>
+                     </l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 'till to compleat the whole</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> he makes them all <hi>No-Landers,</hi>
+                     </l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> whilſt Fools with patience bear it, and the Loſs condole.</l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>Secure in warlike Robe</l>
+                     <l>He rends the World aſunder,</l>
+                     <l>He tramples o're the Globe,</l>
+                     <l>And Monarchs truckle down.</l>
+                     <l>What factious plotting Foes,</l>
+                     <l>With hopes to keep him under,</l>
+                     <l>His Juſtice dare oppoſe?</l>
+                     <l>His Will's his Law alone.</l>
+                     <l>
+                        <hi>Shall I</hi> (ſays he) <hi>like Fool</hi>
+                     </l>
+                     <l>
+                        <hi>Be Hector'd by the Rabble,</hi>
+                     </l>
+                     <l>
+                        <hi>When I was born to rule?</hi>
+                     </l>
+                     <l>
+                        <hi>Ha!</hi> futra le Diable!</l>
+                     <l>
+                        <hi>I'le curb the head-ſtrong Tool</hi>
+                     </l>
+                     <l>
+                        <hi>As long as I am able.</hi>
+                     </l>
+                     <l>Jerné! <hi>To give the Beaſt the Reigns, 'tis ridicule.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="5" type="change">
+                  <pb facs="tcp:100278:14"/>
+                  <pb n="7" facs="tcp:100278:14"/>
+                  <head>Fifth Change.</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> HArk! hark! <hi>England</hi>'s Mighty Monarch's come, in the Reer ap<g ref="char:EOLhyphen"/>proaches,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> he who daily loſes ground at home while the Foe en<g ref="char:EOLhyphen"/>croaches;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> he, he who rid in the Front of all the Princes,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> formoſt in the Trenches,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> and for all their large pre╌ten╌ces,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> did out-ſtrip both the Flow'r of <hi>France,</hi> and <hi>German</hi> Eagles,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> the <hi>A╌cte╌on</hi> that never yet was overcome,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> but by his own Beagles.</l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>See, ſee, Great Monarch, how the Pack the old Game inveagles:</l>
+                     <l>Whilſt the old Tribe of <hi>Forty One</hi> is ſtill i'th' Nation,</l>
+                     <l>Plotting's a Vocation,</l>
+                     <l>Treaſon ſtill will be in faſhion.</l>
+                     <l>Leſt we all truckle under the <hi>Aſſociation,</hi>
+                     </l>
+                     <l>Root out the whole Stock,</l>
+                     <l>
+                        <hi>Tony</hi> to the Block,</l>
+                     <l>To work a thorough Reformation.</l>
+                  </lg>
+                  <p>[In the ſecond Verſe, ſing the firſt Part of the Tune but once over.]</p>
+               </div>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:15"/>
+               <pb n="8" facs="tcp:100278:15"/>
+               <head>A Drinking CATCH.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> COME Boys fill up a Bumper,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> wee'l make the Nation roar;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> She's grown ſick of a Rumper,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> that ticks on the old ſcore,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> 'pox on <hi>Birminghams,</hi> rout 'em,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> they thirſt for our Blood,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> wee'l raiſe Tax╌es without 'em,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and drink for the Na╌ti╌ons Good.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>Charge the Bottles and Gallons,</l>
+                  <l>And bring the Hogſheads in,</l>
+                  <l>Wee'l begin with the tall ones,</l>
+                  <l>A Brimmer to the KING:</l>
+                  <l>Round, a-round, fill a freſh one,</l>
+                  <l>That no Man bauk his Wine,</l>
+                  <l>Wee'l drink to the next in Succeſſion,</l>
+                  <l>And keep it in the <hi>Right Line.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:16"/>
+               <pb n="9" facs="tcp:100278:16"/>
+               <head>PHILANDER.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> A POX on the factious o' th' C—y,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> for chuſing two <hi>Presbyter</hi> Shr—s!</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> alas! 'tis a great deal of pi╌ty,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> my heart for <hi>Philander</hi> grieves.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> He ſent the Recorder of <hi>L—n,</hi>
+                  </l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> who by the Factious was run down;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> they are ſuch Rogues,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> they wiſh us undone;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> hang up thoſe Dogs,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> oh! <hi>Bil╌ly Scroggs.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>They tell us of Plots and of Wonders,</l>
+                  <l>To run Church and Monarchy down,</l>
+                  <l>Whilſt ſtill the loud Pa—nt thunders</l>
+                  <l>Againſt both the Miter and Crown.</l>
+                  <l>The Co—ns to th' City are trotting amain,</l>
+                  <l>Where they ſit plotting</l>
+                  <l>Who next ſhall reign,</l>
+                  <l>While we lye ſotting;</l>
+                  <l>
+                     <hi>Charles</hi> to the Wain;</l>
+                  <l>Rogue 'em again.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:17"/>
+               <pb n="10" facs="tcp:100278:17"/>
+               <head>A SONG.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> NOW, now the Work's done, and the Par╌lia╌ment ſet,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> are ſent back a╌gain like Fools as they met,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to prove without change they were true to their Truſt,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> they voted their Actions both legal and juſt;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> but on <hi>Rowley,</hi> who knew them, the Cheat would not paſs,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> who cut off the Rump of the Po╌li╌tick Aſs.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>Let <hi>S—b—y</hi> plot, and <hi>M—n—h</hi> contrive,</l>
+                  <l>And <hi>Waller</hi> lye buzzing like Drone in a Hive,</l>
+                  <l>Let Phanaticks fret on, and preach to the Crowd</l>
+                  <l>Sedition and Faction and Treaſon aloud;</l>
+                  <l>Wee'l drink off our Liquor to cheriſh good Blood,</l>
+                  <l>And in our King's Service wee'l let out the Flood.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:18"/>
+               <pb n="11" facs="tcp:100278:18"/>
+               <head>Old JEMMY.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> OLD <hi>JEMMY</hi> is a Lad,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> right law╌ful╌ly de<g ref="char:EOLhyphen"/>ſcended,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> no Baſtard born nor bred,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> nor for a Whigg ſuſpended:</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> A Heart and Soul ſo wondrous great,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> with ſuch a conqu'ring Eye,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> that ev'ry loyal Lad would plead</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> in <hi>Jemmy</hi>'s Cauſe to dye.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>Old <hi>JEMMY</hi> is a Prince</l>
+                  <l>Of noble Reſolutions,</l>
+                  <l>Whoſe powerful Influence</l>
+                  <l>Can order our Confuſions:</l>
+                  <l>But, oh! he fights with ſuch a grace,</l>
+                  <l>No force can him withſtand;</l>
+                  <l>No God of War but muſt give place</l>
+                  <l>Where <hi>Jemmy</hi> leads the Van.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>To <hi>Jemmy</hi> ev'ry Swain</l>
+                  <l>Does pay due veneration,</l>
+                  <l>And <hi>Scotland</hi> does maintain</l>
+                  <l>His Title to the Nation:</l>
+                  <l>The Pride of all the Court he ſtands,</l>
+                  <l>The Patron of his Cauſe,</l>
+                  <l>The Joy and Hope of all his Friends,</l>
+                  <l>The Terrour of his Foes.</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>And now, oh happy Pate!</l>
+                  <l>The Kirk has taught a Leſſon,</l>
+                  <l>A Bleſſing on the State,</l>
+                  <l>To ſettle the Succeſſion:</l>
+                  <l>They loyal were, both Knight and Lord,</l>
+                  <l>And will his Rights maintain,</l>
+                  <l>By Royal Parliament reſtor'd,</l>
+                  <l>Old <hi>Jemmy's YORK</hi> again.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:19"/>
+               <pb n="12" facs="tcp:100278:19"/>
+               <head>The HEALTHS.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> SINCE Plotting's a Trade, like the reſt of the Nation,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> let 'em lye and ſwear on to keep up the Vo╌ca╌tion.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Let <hi>Weavers</hi> and <hi>Turners</hi> and <hi>Joyners</hi> agree</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to find work for the <hi>Cooper,</hi> they'l have none of me.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Let politick Shams in the Stateſman a╌bound,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> while we quaff our Bumpers and ſet the Glaſs round:</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> The jol╌ly Toper's the beſt Subject ſtill,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> who drinks off his Liquor, and thinks no more ill.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>Here's a Health to the King and his lawful Succeſſors.</l>
+                  <l>To honeſt Tantivies and loyal Addreſſers;</l>
+                  <l>But a pox take all thoſe that promoted Petitions,</l>
+                  <l>To poiſon the Nation, and ſtir up Seditions.</l>
+                  <l>Here's a Health to the Queen and her Ladies of Honour,</l>
+                  <l>And a pox take all thoſe that put Sham-plots upon her.</l>
+                  <l>Here's a Health to the Duke and Senate of <hi>Scotland,</hi>
+                  </l>
+                  <l>To all honeſt Men, who from Biſhops ne're got Land.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>Here's a Health to all thoſe love the King and his Laws,</l>
+                  <l>And may they ne're pledge it that broach the <hi>Old Cauſe.</hi>
+                  </l>
+                  <l>Here's a Health to the State, and a pox on the Pack</l>
+                  <l>Of Commonwealth-Canters, and <hi>Presbyter Jack;</hi>
+                  </l>
+                  <l>To the uppermoſt Pendent that ever did play</l>
+                  <l>On the higheſt Top-Gallant o'th' <hi>Soveraign o'th' Sea:</hi>
+                  </l>
+                  <l>And he that denies to the Standard to low'r,</l>
+                  <l>May he ſink in the Ocean, and never drink more.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:20"/>
+               <pb n="13" facs="tcp:100278:20"/>
+               <head>
+                  <hi>YORK</hi> and <hi>ALBANY.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> NOW, now the Zealots all muſt droop,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the Synagogues ſhall down,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and Truth and Loyal╌ty get up,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the Pillars of the Throne.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> The <hi>Whiggs</hi> (who Loyal╌ty forſook)</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> ſhall with one Voice agree,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to welcome home the Mighty Duke</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> of <hi>YORK</hi> and <hi>ALBANY.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>The <hi>wandring Dove,</hi> that was ſent forth</l>
+                  <l>To find ſome Landing near,</l>
+                  <l>When <hi>England</hi>'s <hi>Ark</hi> was toſt on Floods</l>
+                  <l>Of <hi>Jealouſie</hi> and <hi>Fear,</hi>
+                  </l>
+                  <l>Returns with <hi>Olive-Branch</hi> of Joy,</l>
+                  <l>To ſet the Nation free</l>
+                  <l>From <hi>Whiggiſh</hi> Rage, that wou'd deſtroy</l>
+                  <l>Great <hi>YORK</hi> and <hi>ALBANY.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>And may he with the Joys he wed</l>
+                  <l>For ever happy be,</l>
+                  <l>And live to cruſh the Serpents Head,</l>
+                  <l>Whoſe Sting did pierce his Knee:</l>
+                  <l>'Till Rebells tremble at his Name,</l>
+                  <l>And all the Land agree,</l>
+                  <l>The Rightful Int'reſt to proclaim</l>
+                  <l>Of <hi>YORK</hi> and <hi>ALBANY.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:21"/>
+               <pb n="14" facs="tcp:100278:21"/>
+               <head>
+                  <hi>The DUKE's Return from</hi> Scotland.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> NOW the <hi>To╌ries</hi> that glory</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> in Royal <hi>Jemmy</hi>'s Return,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> i'th' Tavern rore it and ſcore it,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> your Caps and Bonnets burn.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Let the Lads and the Laſ╌ſes</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> ſet foot to foot in their turn,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and he that paſ╌ſes his Glaſſes</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> may he never ſcape the Horn.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Royal <hi>Jemmy</hi> is come again,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> there's for honeſt Men room again,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the <hi>true Heir</hi> is come home again,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Fools and Baſtards we ſcorn,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> then heigh Boys laugh it, and quaff it,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> let <hi>Whiggs</hi> and <hi>Zealots</hi> mourn.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>Let Impeaches and Speeches</l>
+                  <l>Be with the Authors pull'd down,</l>
+                  <l>And he that preaches or teaches</l>
+                  <l>Againſt the Heir o'th' Crown:</l>
+                  <l>No more the Jealous ſhall tell us</l>
+                  <l>Of the Succeſſion o'th' Throne,</l>
+                  <l>'Till the Rebellious, ſo zealous,</l>
+                  <l>His lawful Int'reſts own,</l>
+                  <l>
+                     <hi>Monarchy</hi> is got up again,</l>
+                  <l>Every Man take his Cup again,</l>
+                  <l>'Till we make the Slaves droop again,</l>
+                  <l>Who our Peace wou'd inthrall;</l>
+                  <l>And every Rebel that libell'd,</l>
+                  <l>Do at his Footſtool fall.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>Then the Station o'th' Nation</l>
+                  <l>On Terms more honeſt will be<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Nor bold Oration in faſhion</l>
+                  <l>To rail at Monarchy:</l>
+                  <l>The <hi>City Royal</hi> be <hi>loyal,</hi>
+                  </l>
+                  <l>And common Juſtice agree,</l>
+                  <l>T'avenge loſt Heads on the Tryal</l>
+                  <l>Of <hi>O—s</hi> and <hi>S—b—y:</hi>
+                  </l>
+                  <l>Then Diſſenters ſhall aid the Throne,</l>
+                  <l>And Addreſſers perſwade the Throne,</l>
+                  <l>Gainſt the Traitors invade the Throne:</l>
+                  <l>
+                     <hi>London</hi> Charter be free,</l>
+                  <l>And <hi>Ignoramus</hi> be famous</l>
+                  <l>For Truth and Loyalty.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:22"/>
+               <pb n="15" facs="tcp:100278:22"/>
+               <head>On the DUKE's Return after Shipwrack.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> TH'rough Tempeſts at Sea, th'rough Tumults on Shore,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the wandring bright Planet a╌gain is reſtor'd,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> ſtill welcome, but ne're more welcome before</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to all honeſt Men, who his abſence de<g ref="char:EOLhyphen"/>plor'd:</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> We ſigh'd in the Shade for the Sun we a╌dore,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and now with freſh Incenſe our Altars run o're.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>To the <hi>King</hi> and the <hi>Queen,</hi> to the Brim let it flow,</l>
+                  <l>The <hi>Duke</hi> and the <hi>Dutcheſs</hi> ſhall have the next place,</l>
+                  <l>To the Royal <hi>Blew-Cap</hi> about let it go,</l>
+                  <l>The blooming freſh Bloſſom of the ancient Race:</l>
+                  <l>May he reign, and live ever to conquer his Foes,</l>
+                  <l>Who <hi>Monarchy</hi> hate, and its Rights dare oppoſe.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>But Pilot take care, and look to your Charge,</l>
+                  <l>Keep loof to the Windings, the Glaſs is run out,</l>
+                  <l>For if you want Depth you endanger the Barge,</l>
+                  <l>Then launch in the Ocean, and tack it about:</l>
+                  <l>If Quickſands or Shallows our Veſſel withſtood,</l>
+                  <l>To waft her off ſafe we will raiſe a new Flood.</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>Then fill up, and ſee no Ebb in the Glaſs,</l>
+                  <l>For want of High-water the Ship run aground;</l>
+                  <l>Then if we muſt fall while he ſafely does paſs,</l>
+                  <l>Wee'l in the full Tide of Allegiance be drown'd:</l>
+                  <l>The Dog that dares bark while this <hi>Planet</hi> does ſhine,</l>
+                  <l>In a Thirſt let him dye, and in Darkneſs repine.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:23"/>
+               <pb n="16" facs="tcp:100278:23"/>
+               <head>Great JEMMY.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> HERE's a Health to the Man, that ne're did op╌poſe</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the King, nor his Intereſt, Council, nor Laws,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Great <hi>JEMMY,</hi> that ſcorns to ſtoop to ſuch toys,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> as the Noiſe of the Rabble, or Shouting of Boys:</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Great <hi>JEMMY,</hi> the Va╌l'ant, the Injur'd and Brave,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the Di'mond that ſhines in the darkſomeſt Cave.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>Crown every Glaſs with Lawrel and Bays,</l>
+                  <l>Whilſt we drink to his Health, and ſing to his Praiſe:</l>
+                  <l>Then think on the <hi>Dutch,</hi> what Conqueſts did flow</l>
+                  <l>From that Spring-Tide of Glories, to varniſh his Brow:</l>
+                  <l>Then with one conſent let's boldly declare,</l>
+                  <l>He's the <hi>Soul</hi> of our <hi>Peace,</hi> and the <hi>God</hi> of our <hi>War,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>Let's drink to the <hi>HERO</hi> who <hi>Scotland</hi> ſubdu'd,</l>
+                  <l>And brought to Allegiance the factious Crowd:</l>
+                  <l>Each Day may freſh Garlands his Temples adorn,</l>
+                  <l>As bright as the Day, and as freſh as the Morn:</l>
+                  <l>That <hi>Jemmy</hi> the Valiant, to <hi>Scotland</hi>'s great praiſe,</l>
+                  <l>May ſhine like the Sun in the midſt of his Rays.</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>Away with it then, ſet the Bumpers about,</l>
+                  <l>His Enemies all may He put to the rout:</l>
+                  <l>Each ſnarling <hi>Phanatick</hi> may he hang down his Ears,</l>
+                  <l>Whoſe <hi>Malice</hi> created our <hi>Doubts</hi> and our <hi>Fears;</hi>
+                  </l>
+                  <l>That <hi>JEMMY</hi> the Great, with encreaſe of good Days,</l>
+                  <l>May ſhine like the Sun in the midſt of his Rays.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:24"/>
+               <pb n="17" facs="tcp:100278:24"/>
+               <head>A Paſtoral SONG.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> IN fair <hi>Arcadian</hi> Plains</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> 
+                     <hi>Philander</hi> fed his Sheep,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> where ſafe in the Shade the Lambs undiſturb'd did ſleep,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> young <hi>Strephon</hi> was chief amongſt the Swains.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> 'Twas then <hi>Phi╌lan╌der</hi> cry'd, ha me! ha! ha me!</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> What Inſolence, what Pride did his Sen—ſes ſteep?</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> that thus the un╌hap╌py Boy ſhou'd ſide with Wolves</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and Bears againſt the Shepherd and the Sheep.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>But charming Youth beware</l>
+                  <l>Thy projects are in vain,</l>
+                  <l>The wrong'd <hi>Celadon</hi> to the Flocks is return'd again,</l>
+                  <l>Great <hi>Celadon,</hi> the Rightful Heir:</l>
+                  <l>Then <hi>Strephon,</hi> oh return!</l>
+                  <l>Oh! oh! oh! Return, e're thou too late becomes a fatal prey,</l>
+                  <l>The pride, and unlamented ſcorn</l>
+                  <l>Of that devouring Herd that led thy Heart aſtray.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>
+                     <hi>Philander</hi> thus complain'd,</l>
+                  <l>But all alas! in vain;</l>
+                  <l>An old <hi>Serpent</hi> lurk'd in the Graſs; the unwary Swain</l>
+                  <l>Suck'd in the Charm, and the Sting remain'd:</l>
+                  <l>The poyſoning Tap he drains:</l>
+                  <l>Alas! A-A-las! the deadly Draught that did ſo fatal prove,</l>
+                  <l>That ſince th 'Inchanted Youth remains</l>
+                  <l>Than poyſon'd Adders deafer, and more blind than Love.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:100278:25"/>
+               <pb n="18" facs="tcp:100278:25"/>
+               <head>Young JEMMY, a Catch.</head>
+               <l>YOung <hi>Jemmy,</hi> the Blade of Royal Stamp, is blaſted in the Caſe,</l>
+               <l>The <hi>Faries</hi> crept in, the <hi>Faries,</hi> and left a Changeling in his place.</l>
+               <l>The Spark, the Spark that fires the Nymphs, and the Sun that gilds the Plains:</l>
+               <l>Then bring us more Wine, the Dog-ſtar bites, more Wine to cool our Brains.</l>
+               <l>Was ever poor Youth, was ever poor Youth ſo unhappily undone!</l>
+               <l>H'as loſt a Father, but who can ſay the Father has loſt a Son?</l>
+               <p>[You may ſing this to what Tune you pleaſe, 'till we get a better.]</p>
+            </div>
+            <div type="song">
+               <head>OSSERY, a Catch.</head>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> COunt <hi>OSSERY,</hi> and what of he?</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> He beat out the <hi>French,</hi>
+               </l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> out of their own Trench,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> then take off your Beer,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and remember <hi>Myn Heer;</hi>
+               </l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> ſing hey ho! for the poor <hi>Monſieur.</hi>
+               </l>
+            </div>
+            <div type="song">
+               <head>The PLOT unvail'd.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> DRaw, draw the Vail,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the Plot's growing ſtale,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> that has blinded three parts of the Nation.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> The Tap's on the Lees,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and ev'ry Man ſees</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> through the <hi>Cask</hi> of the <hi>Aſ╌ſo╌ci╌a╌tion.</hi>
+                  </l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> You brood on a Plot</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> which <hi>Rome</hi> cou'd not effect,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> tho ſo long 'twas a
+<pb facs="tcp:100278:26"/>
+                     <pb n="19" facs="tcp:100278:26"/>hatching.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> This Stalk-horſe you bring</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to ſhoot at the King,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> on the Game, while the Fowler is watching.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> WHat a pox do you mean?</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> for to gull us again?</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> with a ſpecious pretence</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> of <hi>Allegiance</hi> to your Prince,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> whilſt to <hi>Loyalty</hi> each Man pretends,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> yet hates in his heart both the King and his Friends;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> both the King and his Friends.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> SUre he was a <hi>loy╌al Subject</hi> too,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> who cut off the King's Head, as well as you.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> So they call'd themſelves <hi>then,</hi> and ſo do you <hi>now:</hi>
+                  </l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> For Religion and Conſcience the Saints did it then,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and you'd make no Conſcience to do it a╌gain.</l>
+               </lg>
+               <p>
+                  <hi>[Sing the three following Stanza's to the Meaſure of the three foregoing.]</hi>
+               </p>
+               <lg>
+                  <pb facs="tcp:100278:27"/>
+                  <pb n="20" facs="tcp:100278:27"/>
+                  <l>Thus, thus you made</l>
+                  <l>Religion a Trade</l>
+                  <l>In City, and Country, and Village,</l>
+                  <l>Your Rights to maintain,</l>
+                  <l>And Freedom to gain,</l>
+                  <l>By Impriſoning, Plunder, and Pillage;</l>
+                  <l>With Fire and with Sword,</l>
+                  <l>Your <hi>All</hi> you ſecur'd,</l>
+                  <l>The <hi>Safety</hi> and <hi>Peace</hi> of the Nation;</l>
+                  <l>Whilſt <hi>Sacrilege,</hi> and</l>
+                  <l>The Church to trapan,</l>
+                  <l>Was all the Religion in faſhion.</l>
+               </lg>
+               <lg>
+                  <l>For ſhame then give o're</l>
+                  <l>With your ſhamekin Tricks,</l>
+                  <l>To rail as before</l>
+                  <l>With your <hi>Goathams</hi> and <hi>Dicks,</hi>
+                  </l>
+                  <l>Whilſt <hi>Popery</hi>'s ſtill the pretence,</l>
+                  <l>To ſtir up the <hi>Rabble</hi> againſt the true Prince,</l>
+                  <l>Againſt the true Prince.</l>
+               </lg>
+               <lg>
+                  <l>Is there Religion, Law, or Sence,</l>
+                  <l>In oppoſing Decrees of Providence?</l>
+                  <l>Kings are her chief care, then <hi>Whigg</hi> is a thing</l>
+                  <l>Is a Rebel to his Maker as well as his King.</l>
+               </lg>
+               <lg>
+                  <head>CHORUS.</head>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> THen ſince 'tis de╌creed by Pro╌vi╌dence,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> let's freely ſubmit to its In╌flu╌ence,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> in the lawful Succeſſion, and own the great Bleſſing,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> that Heav'n hath re╌ſtor'd us the lawful Prince.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
